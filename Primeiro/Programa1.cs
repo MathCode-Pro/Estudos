@@ -8,7 +8,7 @@ namespace Primeiro {
             Retangulo retangulo;
 
             retangulo = new Retangulo();
-            Console.WriteLine("Entre a largura e altura do retângulo: ");
+            Console.WriteLine("Entre com a largura e altura do retângulo: ");
             retangulo.Largura = double.Parse(Console.ReadLine());
 
             retangulo.Altura = double.Parse(Console.ReadLine());

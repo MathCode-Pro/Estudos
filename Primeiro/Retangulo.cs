@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 
 namespace SalarioFunc {
-    class Retangulo {
+    class DimensoesRetangulo {
 
         public double Largura;
         public double Altura;
