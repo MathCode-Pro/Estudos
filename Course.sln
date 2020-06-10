@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29911.84
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enum e Composicao", "Enum e Composicao\Enum e Composicao.csproj", "{63DBC722-FB85-4F37-AE59-70C509156CA1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Herança e Polimorfismo 2", "Herança e Polimorfismo 2\Herança e Polimorfismo 2.csproj", "{F31DD995-29DA-4E23-B12A-B3A4D209F6ED}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{63DBC722-FB85-4F37-AE59-70C509156CA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{63DBC722-FB85-4F37-AE59-70C509156CA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{63DBC722-FB85-4F37-AE59-70C509156CA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{63DBC722-FB85-4F37-AE59-70C509156CA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F31DD995-29DA-4E23-B12A-B3A4D209F6ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F31DD995-29DA-4E23-B12A-B3A4D209F6ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F31DD995-29DA-4E23-B12A-B3A4D209F6ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F31DD995-29DA-4E23-B12A-B3A4D209F6ED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
